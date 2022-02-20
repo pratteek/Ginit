@@ -1,2 +1,2 @@
 # Ginit
-Basically git init but on steroids - A GitHub CLI Tool
+Basically git init but on steroids - A Git CLI Tool
